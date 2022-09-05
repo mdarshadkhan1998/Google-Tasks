@@ -8,3 +8,4 @@ const productSchemaHere = Schema({
 
 const ProductSchema = model("product", productSchemaHere);
 module.exports = ProductSchema;
+
